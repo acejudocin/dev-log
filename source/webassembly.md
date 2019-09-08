@@ -14,3 +14,5 @@
 - [Using WebAssembly with Web Workers](https://www.sitepen.com/blog/using-webassembly-with-web-workers) #article #guide
 - [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types) #article
 - [Beyond The Browser: Getting Started With Serverless WebAssembly](https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly) #article
+- [Debugging WebAssembly Outside of the Browser](https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser) #article
+- [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) #book #free
